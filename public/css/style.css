@@ -14,11 +14,11 @@ table tr th {
 }
 table tr td {
   background: orange;
-  border: 1px solid darkred;
+  border: solid;
 }
 table tr th {
   background: grey;
-  border: 1px solid #333;
+  border: solid ;
   color: white;
 }
 form {
